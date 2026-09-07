@@ -5,3 +5,5 @@ title: "Dylan G Thomson"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![./images/1000018311.jpeg]{width="75%" fig-align="center"}
+

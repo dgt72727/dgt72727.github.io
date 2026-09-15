@@ -12,5 +12,12 @@
     "title": "Dylan G Thomson",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#python-code",
+    "href": "index.html#python-code",
+    "title": "Dylan G Thomson",
+    "section": "Python Code",
+    "text": "Python Code\n\nimport platform\n\nprint(\"Python Version:\", platform.python_version())\nprint(\"Operating System:\", platform.system())\n\nPython Version: 3.12.14\nOperating System: Linux"
   }
 ]

@@ -11,3 +11,12 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 
 
+
+## Python Code
+
+```{python}
+import platform
+
+print("Python Version:", platform.python_version())
+print("Operating System:", platform.system())
+```

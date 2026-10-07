@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Thank you for visiting my portfolio. I am always interested in connecting with professionals and others working across marketing, business, and analytics.\n\n\nEmail: dgt72727@bu.edu\nLinkedIn: Connect with me on LinkedIn\nGitHub: View my GitHub"
-  },
-  {
-    "objectID": "contact.html#lets-connect",
-    "href": "contact.html#lets-connect",
-    "title": "Contact",
-    "section": "",
-    "text": "Thank you for visiting my portfolio. I am always interested in connecting with professionals and others working across marketing, business, and analytics.\n\n\nEmail: dgt72727@bu.edu\nLinkedIn: Connect with me on LinkedIn\nGitHub: View my GitHub"
-  },
-  {
-    "objectID": "contact.html#areas-of-interest",
-    "href": "contact.html#areas-of-interest",
-    "title": "Contact",
-    "section": "Areas of Interest",
-    "text": "Areas of Interest\nI am particularly interested in connecting around:\n\nBusiness and data analytics\nMarketing analytics\nData visualization\nBusiness intelligence\nData-driven strategy"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Dylan G Thomson",
@@ -40,6 +19,55 @@
     "title": "Dylan G Thomson",
     "section": "Explore My Portfolio",
     "text": "Explore My Portfolio\nUse the navigation above to learn more about my background, explore selected analytics projects, view my CV, and connect with me.\n\nAbout Me — Learn more about my background, interests, and career goals.\nProjects — Explore selected academic and analytics projects.\nCV — View my professional background and download my CV.\nContact — Find my email, LinkedIn, and GitHub."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a marketing professional currently working as a Marketing Coordinator at HH Brown Work & Outdoor Group, where I support marketing initiatives across multiple footwear brands and work closely with sales, design, product, and other cross-functional teams.\nI earned my B.S. in Marketing from Penn State University’s Smeal College of Business, with a minor in Sports Studies. I am currently continuing my education at Boston University Metropolitan College, where I am developing my skills in business analytics and data-driven decision making."
+  },
+  {
+    "objectID": "about.html#hi-im-dylan-thomson",
+    "href": "about.html#hi-im-dylan-thomson",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a marketing professional currently working as a Marketing Coordinator at HH Brown Work & Outdoor Group, where I support marketing initiatives across multiple footwear brands and work closely with sales, design, product, and other cross-functional teams.\nI earned my B.S. in Marketing from Penn State University’s Smeal College of Business, with a minor in Sports Studies. I am currently continuing my education at Boston University Metropolitan College, where I am developing my skills in business analytics and data-driven decision making."
+  },
+  {
+    "objectID": "about.html#professional-interests",
+    "href": "about.html#professional-interests",
+    "title": "About Me",
+    "section": "Professional Interests",
+    "text": "Professional Interests\nMy interests sit at the intersection of marketing, business, and analytics. I am particularly interested in using data to better understand customers, evaluate business performance, identify opportunities, and support strategic decision making.\nThrough my graduate coursework, I am continuing to build experience with tools and technologies including:\n\nPython\nSQL\nR\nPower BI\nTableau\nExcel\nData visualization and analytics"
+  },
+  {
+    "objectID": "about.html#career-goals",
+    "href": "about.html#career-goals",
+    "title": "About Me",
+    "section": "Career Goals",
+    "text": "Career Goals\nMy goal is to continue developing my technical and analytical capabilities while building on my professional marketing experience. I am particularly interested in opportunities that combine business strategy, marketing knowledge, and data analytics to turn complex information into actionable insights."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Thank you for visiting my portfolio. I am always interested in connecting with professionals and others working across marketing, business, and analytics.\n\n\nEmail: dgt72727@bu.edu\nLinkedIn: Connect with me on LinkedIn\nGitHub: View my GitHub"
+  },
+  {
+    "objectID": "contact.html#lets-connect",
+    "href": "contact.html#lets-connect",
+    "title": "Contact",
+    "section": "",
+    "text": "Thank you for visiting my portfolio. I am always interested in connecting with professionals and others working across marketing, business, and analytics.\n\n\nEmail: dgt72727@bu.edu\nLinkedIn: Connect with me on LinkedIn\nGitHub: View my GitHub"
+  },
+  {
+    "objectID": "contact.html#areas-of-interest",
+    "href": "contact.html#areas-of-interest",
+    "title": "Contact",
+    "section": "Areas of Interest",
+    "text": "Areas of Interest\nI am particularly interested in connecting around:\n\nBusiness and data analytics\nMarketing analytics\nData visualization\nBusiness intelligence\nData-driven strategy"
   },
   {
     "objectID": "cv.html",
@@ -82,33 +110,5 @@
     "title": "Projects",
     "section": "More to Come",
     "text": "More to Come\nI will continue adding projects to this portfolio as I complete additional analytics coursework and develop new technical and professional projects."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "I am a marketing professional currently working as a Marketing Coordinator at HH Brown Work & Outdoor Group, where I support marketing initiatives across multiple footwear brands and work closely with sales, design, product, and other cross-functional teams.\nI earned my B.S. in Marketing from Penn State University’s Smeal College of Business, with a minor in Sports Studies. I am currently continuing my education at Boston University Metropolitan College, where I am developing my skills in business analytics and data-driven decision making."
-  },
-  {
-    "objectID": "about.html#hi-im-dylan-thomson",
-    "href": "about.html#hi-im-dylan-thomson",
-    "title": "About Me",
-    "section": "",
-    "text": "I am a marketing professional currently working as a Marketing Coordinator at HH Brown Work & Outdoor Group, where I support marketing initiatives across multiple footwear brands and work closely with sales, design, product, and other cross-functional teams.\nI earned my B.S. in Marketing from Penn State University’s Smeal College of Business, with a minor in Sports Studies. I am currently continuing my education at Boston University Metropolitan College, where I am developing my skills in business analytics and data-driven decision making."
-  },
-  {
-    "objectID": "about.html#professional-interests",
-    "href": "about.html#professional-interests",
-    "title": "About Me",
-    "section": "Professional Interests",
-    "text": "Professional Interests\nMy interests sit at the intersection of marketing, business, and analytics. I am particularly interested in using data to better understand customers, evaluate business performance, identify opportunities, and support strategic decision making.\nThrough my graduate coursework, I am continuing to build experience with tools and technologies including:\n\nPython\nSQL\nR\nPower BI\nTableau\nExcel\nData visualization and analytics"
-  },
-  {
-    "objectID": "about.html#career-goals",
-    "href": "about.html#career-goals",
-    "title": "About Me",
-    "section": "Career Goals",
-    "text": "Career Goals\nMy goal is to continue developing my technical and analytical capabilities while building on my professional marketing experience. I am particularly interested in opportunities that combine business strategy, marketing knowledge, and data analytics to turn complex information into actionable insights."
   }
 ]

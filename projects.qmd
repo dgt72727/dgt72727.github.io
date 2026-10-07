@@ -1,0 +1,38 @@
+---
+title: "Projects"
+---
+
+## Featured Projects
+
+This portfolio highlights selected academic projects demonstrating my experience with business analytics, data analysis, visualization, and data-driven decision making.
+
+### Career Evaluation Product
+
+**Boston University — Big Data and Cloud Analytics for Business**
+
+Developed a career evaluation product using job-posting data to analyze opportunities for Data Scientists within the Software Publishers industry.
+
+Key areas of analysis include:
+
+- Job-market demand and employer activity
+- Salary and geographic trends
+- Experience and education requirements
+- Remote-work patterns
+- Technical skill demand
+- Skill-gap analysis and career recommendations
+
+**Tools:** Python, Pandas, Plotly, Quarto, GitHub, GitHub Pages
+
+**[View Live Project](https://saeheewilson.github.io/ad688-career-evaluation-group9/)**
+
+**[View GitHub Repository](https://github.com/saeheewilson/ad688-career-evaluation-group9)**
+
+### Business Analytics Coursework
+
+Through my graduate coursework at Boston University Metropolitan College, I have completed projects involving data preparation, exploratory analysis, visualization, and statistical and analytical methods.
+
+My coursework has provided hands-on experience using tools such as **Python, SQL, R, Power BI, Tableau, and Excel** to translate data into useful business insights.
+
+## More to Come
+
+I will continue adding projects to this portfolio as I complete additional analytics coursework and develop new technical and professional projects.

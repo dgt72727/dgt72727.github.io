@@ -1,0 +1,37 @@
+---
+title: "CV"
+---
+
+## Professional Background
+
+I am a marketing professional with experience supporting brand marketing, sales initiatives, digital communications, and cross-functional projects. I am currently expanding my technical background through graduate study in business analytics at Boston University Metropolitan College.
+
+### Education
+
+**Boston University Metropolitan College**  
+Graduate Studies in Business Analytics
+
+**Penn State University — Smeal College of Business**  
+B.S. in Marketing  
+Minor in Sports Studies
+
+### Professional Experience
+
+**Marketing Coordinator — HH Brown Work & Outdoor Group**
+
+Support marketing initiatives across multiple footwear brands, collaborating with sales, design, product, and other teams on digital marketing, sales resources, retailer communications, catalogs, events, and brand assets.
+
+### Skills
+
+- Python, SQL, R
+- Power BI, Tableau, Excel
+- Data Analysis and Visualization
+- Marketing Analytics
+- Digital Marketing
+- Cross-Functional Project Coordination
+
+## Download My CV
+
+A downloadable PDF version of my CV is available below.
+
+**[Download CV (PDF)](Dylan_Thomson_CV.pdf)**

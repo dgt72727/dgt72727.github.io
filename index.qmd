@@ -2,21 +2,19 @@
 title: "Dylan G Thomson"
 ---
 
-This is a Quarto website.
+## Marketing | Business | Analytics
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-![](./images/1000018311.jpeg){width="75%" fig-align="center"}
+I am a marketing professional currently expanding my technical and analytical skills through graduate study in business analytics at Boston University Metropolitan College.
 
+My interests sit at the intersection of **marketing, business strategy, and data analytics**, with a focus on using data to uncover insights and support better business decisions.
 
+![](./images/1000018311.jpeg){width="45%" fig-align="center"}
 
+## Explore My Portfolio
 
+Use the navigation above to learn more about my background, explore selected analytics projects, view my CV, and connect with me.
 
-
-## Python Code
-
-```{python}
-import platform
-
-print("Python Version:", platform.python_version())
-print("Operating System:", platform.system())
-```
+- **[About Me](about.qmd)** — Learn more about my background, interests, and career goals.
+- **[Projects](projects.qmd)** — Explore selected academic and analytics projects.
+- **[CV](cv.qmd)** — View my professional background and download my CV.
+- **[Contact](contact.qmd)** — Find my email, LinkedIn, and GitHub.

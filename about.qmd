@@ -1,5 +1,27 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+## Hi, I'm Dylan Thomson
+
+I am a marketing professional currently working as a **Marketing Coordinator at HH Brown Work & Outdoor Group**, where I support marketing initiatives across multiple footwear brands and work closely with sales, design, product, and other cross-functional teams.
+
+I earned my **B.S. in Marketing from Penn State University's Smeal College of Business**, with a minor in Sports Studies. I am currently continuing my education at **Boston University Metropolitan College**, where I am developing my skills in business analytics and data-driven decision making.
+
+## Professional Interests
+
+My interests sit at the intersection of **marketing, business, and analytics**. I am particularly interested in using data to better understand customers, evaluate business performance, identify opportunities, and support strategic decision making.
+
+Through my graduate coursework, I am continuing to build experience with tools and technologies including:
+
+- Python
+- SQL
+- R
+- Power BI
+- Tableau
+- Excel
+- Data visualization and analytics
+
+## Career Goals
+
+My goal is to continue developing my technical and analytical capabilities while building on my professional marketing experience. I am particularly interested in opportunities that combine **business strategy, marketing knowledge, and data analytics** to turn complex information into actionable insights.
